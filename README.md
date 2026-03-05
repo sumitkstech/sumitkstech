@@ -1,79 +1,106 @@
-<h1 align="center">Sumit Kumar</h1>
-<h3 align="center">
-Senior Systems Engineer | IoT Cloud Architect | AI-Integrated Platform Engineering
-</h3>
+# 👋 Hi, I'm Sumit
+
+🚀 IoT & Cloud Platform Engineer  
+💻 Backend Systems Architect  
+📡 Specializing in Device-to-Cloud Platforms
 
 ---
 
-## Profile
+## 🧠 About Me
 
-Senior engineer with more than a decade of experience designing production-grade IoT, embedded, and cloud platforms across industrial and urban deployments.
+I am an **IoT and Cloud Platform Engineer with 10+ years of experience** building scalable systems that connect physical devices to cloud platforms.
 
-My work connects embedded devices, communication gateways, backend systems, and cloud infrastructure into reliable end-to-end platforms. I have architected device-to-cloud ecosystems using LoRa, cellular networks, and real-time analytics pipelines.
+My work focuses on:
 
-As engineering evolves toward AI-assisted systems, my focus is on integrating machine learning services and intelligent automation into existing backend and IoT architectures while maintaining strong engineering fundamentals.
+• IoT device-to-cloud architectures  
+• Real-time monitoring platforms  
+• Backend API systems  
+• Distributed data processing  
 
----
-
-## Architecture Focus
-
-- Device-to-cloud system design
-- Real-time data pipelines and analytics workflows
-- Backend architecture using Laravel and FastAPI
-- Cloud-native deployment practices
-- AI-enabled monitoring and anomaly detection systems
-- Cross-domain engineering across embedded, backend, and cloud layers
+I enjoy designing systems that transform **sensor data into actionable insights**.
 
 ---
 
-## Technical Stack
+## ⚙️ Tech Stack
 
-Languages and Frameworks  
-C, C++, Embedded C, Python, PHP (Laravel), .NET, JavaScript, SQL
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-green)
 
-Backend and Cloud  
-REST APIs, Microservices Architecture, Docker, AWS, CI/CD
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
-IoT and Embedded Systems  
-LoRa, MQTT, NB-IoT, UART, TCP/IP, Embedded Linux, Raspberry Pi
+### IoT & Communication
+![LoRa](https://img.shields.io/badge/LoRa-IoT-orange)
+![MQTT](https://img.shields.io/badge/MQTT-IoT-green)
+![NB-IoT](https://img.shields.io/badge/NB--IoT-Connectivity-blue)
 
-AI and Data Engineering  
-Python ML workflows, anomaly detection models, inference APIs, data automation pipelines
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green)
 
----
-
-## Selected Projects
-
-### AI Anomaly Detection Service
-Machine learning pipeline for detecting abnormal sensor behavior using time-series data. Includes training workflows, inference APIs, and backend integration for automated alerting.
-
-### IoT Structural Monitoring Platform
-Scalable cloud-based monitoring platform with LoRa gateway integration, encrypted device communication, real-time dashboards, FFT analytics, and automated alerts.
-
-### Smart Street Lighting System
-City-scale IoT platform enabling adaptive scheduling, device grouping, remote monitoring, and commissioning workflows through a Laravel-based backend and Android tooling.
-
-### Passenger Information System (PIS) – Railways
-Embedded Linux–based real-time passenger information platform supporting multilingual display systems across railway coaches. Designed GPS-enabled updates, wired and wireless display controllers, and system diagnostics interfaces.
+### Embedded Systems
+![Embedded Linux](https://img.shields.io/badge/Embedded-Linux-black)
+![ESP8266](https://img.shields.io/badge/ESP8266-IoT-orange)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-red?logo=raspberrypi)
 
 ---
 
-## Engineering Approach
+## 📡 Featured Projects
 
-I focus on systems that remain maintainable as technologies evolve.  
-Adopt AI where it improves operational intelligence and automation, while preserving strong architecture, observability, and reliability principles.
+### IoT Device Monitoring Platform
+A scalable backend platform for managing sensors, hubs, and devices.
 
----
-
-## Current Direction
-
-- AI integration into real-time IoT platforms
-- Backend systems that combine automation with analytics
-- Platform engineering practices for scalable deployments
+Key Features
+- Telemetry ingestion APIs
+- Device hierarchy management
+- Real-time dashboards
+- Alerting system
 
 ---
 
-## Contact
+### Laravel Microservices Architecture
+Example architecture demonstrating:
 
-Email: sumitkstech@gmail.com  
-Location: Uttar Pradesh, India
+- API gateway
+- service isolation
+- scalable backend design
+
+---
+
+### Sensor Data Processing Service
+Python service designed to process high-frequency telemetry data and perform analytics.
+
+---
+
+## 📊 GitHub Stats
+
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitkstech&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkstech&layout=compact)
+
+---
+
+## 📚 Interests
+
+• IoT Platform Engineering  
+• System Design  
+• Distributed Systems  
+• Real-Time Data Processing  
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/sumitkstech
+
+GitHub  
+https://github.com/sumitkstech
+
+---
+
+⭐ Always interested in building **scalable systems connecting the physical world with cloud platforms.**
